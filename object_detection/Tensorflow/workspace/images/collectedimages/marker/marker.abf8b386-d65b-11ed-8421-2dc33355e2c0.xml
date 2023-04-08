@@ -1,0 +1,26 @@
+<annotation>
+	<folder>marker</folder>
+	<filename>marker.abf8b386-d65b-11ed-8421-2dc33355e2c0.jpg</filename>
+	<path>/home/snow/Documents/image-QnA/object_detection/Tensorflow/workspace/images/collectedimages/marker/marker.abf8b386-d65b-11ed-8421-2dc33355e2c0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>130</ymin>
+			<xmax>575</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

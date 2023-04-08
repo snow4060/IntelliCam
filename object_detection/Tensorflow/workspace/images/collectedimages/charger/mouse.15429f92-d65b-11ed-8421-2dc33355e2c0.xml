@@ -1,0 +1,26 @@
+<annotation>
+	<folder>charger</folder>
+	<filename>mouse.15429f92-d65b-11ed-8421-2dc33355e2c0.jpg</filename>
+	<path>/home/snow/Documents/image-QnA/object_detection/Tensorflow/workspace/images/collectedimages/charger/mouse.15429f92-d65b-11ed-8421-2dc33355e2c0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>charger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>158</ymin>
+			<xmax>435</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

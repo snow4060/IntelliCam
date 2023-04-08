@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ball</folder>
+	<filename>ball.36a5964e-d65b-11ed-8421-2dc33355e2c0.jpg</filename>
+	<path>/home/snow/Documents/image-QnA/object_detection/Tensorflow/workspace/images/collectedimages/ball/ball.36a5964e-d65b-11ed-8421-2dc33355e2c0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>104</ymin>
+			<xmax>406</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>
