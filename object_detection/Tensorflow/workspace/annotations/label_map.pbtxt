@@ -1,0 +1,16 @@
+item { 
+	name:"mouse"
+	id:1
+}
+item { 
+	name:"charger"
+	id:2
+}
+item { 
+	name:"ball"
+	id:3
+}
+item { 
+	name:"marker"
+	id:4
+}
