@@ -12,8 +12,6 @@ import pytesseract
 import speech_recognition as sr
 import pyttsx3
 
-import time
-
 def init():
     global paths, files, category_index, configs
     CUSTOM_MODEL_NAME = "objects" 
