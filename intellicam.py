@@ -194,7 +194,7 @@ def conditions():
     window = tk.Tk()
     window.title("Privacy Statement")
     #information is not collected or saved
-    label = tk.Label(window, text="Intellicam will not save or collect any of the camera footage or interactions either locally or on the cloud. All interactions are local to this client and deleted after runtime.")
+    label = tk.Label(window, text="Intellicam will not save or collect any of the camera footage or interactions either locally or on the cloud. All interactions are local to this client and deleted after runtime unless selected otherwise by the user.")
     label.pack(padx=20, pady=20)
     
     button = tk.Button(window, text="Accept", command=window.destroy)
